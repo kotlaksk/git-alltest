@@ -1,4 +1,6 @@
 public class testProject{
+
+public static void main(String args[]){
 String S1 = "TestNg, Cucumber, Satish"
 System.out.println(S1);
 public static void main(String args[]){
